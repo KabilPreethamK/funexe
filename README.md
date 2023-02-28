@@ -14,6 +14,6 @@ system_info.exe will grab the atmost information of the system where you are run
 
 result will be stored as text file in the current dictionary 
 
-#wifi_grabber 
+# wifi_grabber 
 
 !!!!!!!!!!!! if you run this file via administrator then you can grab the saved wifi passwords !!!!!!!!!
